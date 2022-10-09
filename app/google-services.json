@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "738520929662",
+    "firebase_url": "https://smarthome-35e3f-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "smarthome-35e3f",
+    "storage_bucket": "smarthome-35e3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738520929662:android:41b37dfa09c098b66fcf2f",
+        "android_client_info": {
+          "package_name": "com.example.firebasedevice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738520929662-kcjhvn7d9t03ehfetflea38t1g41iai5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUPXxkjEhlTWlTTWsGZNJUBuFhtDAD6XM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738520929662-kcjhvn7d9t03ehfetflea38t1g41iai5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738520929662:android:04314473e20f706f6fcf2f",
+        "android_client_info": {
+          "package_name": "com.example.zavrsnirad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738520929662-kcjhvn7d9t03ehfetflea38t1g41iai5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUPXxkjEhlTWlTTWsGZNJUBuFhtDAD6XM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738520929662-kcjhvn7d9t03ehfetflea38t1g41iai5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
